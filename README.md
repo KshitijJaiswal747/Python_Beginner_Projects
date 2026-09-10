@@ -1,4 +1,4 @@
-# 🐍 Python Beginner Projects
+# Python Beginner Projects
 
 A collection of beginner-friendly Python projects created to practice and strengthen fundamental programming concepts, problem-solving skills, Object-Oriented Programming (OOP), user input handling, randomization, and basic application development.
 
@@ -201,5 +201,3 @@ This repository is part of my journey to learn Python programming and develop pr
 This project is licensed under the **MIT License**. See the `LICENSE` file for more information.
 
 ---
-
-⭐ If you find these projects useful, feel free to star the repository!
